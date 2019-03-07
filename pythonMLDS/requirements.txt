@@ -1,0 +1,9 @@
+numpy==1.16.*
+matplotlib==3.*
+seaborn==0.8.1
+pandas==0.23.*
+scipy==0.13.*
+Scikit-learn==0.2.*
+statsmodels==0.9.*
+Pickle
+Gc
