@@ -5,5 +5,3 @@ pandas==0.23.*
 scipy==0.13.*
 Scikit-learn==0.20.3
 statsmodels==0.9.*
-Pickle
-Gc
